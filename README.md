@@ -3,7 +3,7 @@
 ## About me...:
 
 ~~~
-<span style="color:purple">const</span> manuelsaavedra = {
+const manuelsaavedra = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Node.js" ],
   links: [{
