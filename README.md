@@ -1,14 +1,14 @@
-### Hi there 👋
+### console.log('Hi, I'm Manuel Saavedra') 👋
 
-**manusaav3dra/manusaav3dra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me...:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+~~~
+<span style="color:purple">const</span> manuelsaavedra = {
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node.js" ],
+  links: [{
+    site: "https://manuelsaavedra.000webhostapp.com/who",
+    instagram: "https://instagram.com/manu_saav3dra",
+  }],
+}
+~~~
