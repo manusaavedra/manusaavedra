@@ -6,7 +6,7 @@
 
 ```js
 const manuelsaavedra = {
-  code: ["JavaScript", "HTML", "CSS", Java],
+  code: ["JavaScript", "HTML", "CSS", "Java"],
   tools: ["React", "Node.js" ],
   links: [{
     site: "https://manuelsaavedra.000webhostapp.com/who",
