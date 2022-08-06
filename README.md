@@ -9,7 +9,7 @@ const manuelsaavedra = {
   code: ["JavaScript", "HTML", "CSS", "Java"],
   tools: ["React", "Node.js" ],
   links: [{
-    site: "https://manuelsaavedra.000webhostapp.com/who",
+    site: "https://manusaavedra.vercel.app/",
     instagram: "https://instagram.com/manu_saav3dra",
   }],
 }
