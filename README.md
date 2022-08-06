@@ -1,4 +1,4 @@
-<img width="120" align="left" src="https://manusaavedra.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar.e99fe7ab.png&w=384&q=75">
+<img width="120" align="left" src="https://i.ibb.co/N6TQX2n/github-profile-feed.png">
 
 ### console.log('Hi, I'm Manuel Saavedra') 👋
 
