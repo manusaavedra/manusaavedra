@@ -1,8 +1,6 @@
 <img width="100%" align="left" src="https://i.ibb.co/N6TQX2n/github-profile-feed.png">
 
-### console.log('Hi, I'm Manuel Saavedra') 👋
-
-## About me...:
+# About me...:
 
 ```js
 const manuelsaavedra = {
